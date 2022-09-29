@@ -1,0 +1,6 @@
+C:\Users\cyril\Downloads\vision_simulator_version_2.53\vision_simulator_version_2.53_manual_opponent\Debug\program.exe
+C:\Users\cyril\Downloads\vision_simulator_version_2.53\vision_simulator_version_2.53_manual_opponent\Debug\program.pdb
+C:\Users\cyril\Downloads\vision_simulator_version_2.53\Attacking\Debug\program.exe
+C:\Users\cyril\Downloads\vision_simulator_version_2.53\Attacking\Debug\program.pdb
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\Debug\program.exe
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\Debug\program.pdb

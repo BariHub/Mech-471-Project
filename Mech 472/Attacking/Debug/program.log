@@ -1,0 +1,30 @@
+﻿  program.cpp
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(103,6): warning C4101: 'nlabels': unreferenced local variable
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(254,10): warning C4101: 'ti': unreferenced local variable
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(452,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(452,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(454,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(454,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(460,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(460,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(449,9): warning C4101: 'p': unreferenced local variable
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(593,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(593,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(595,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(595,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(600,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(600,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(590,9): warning C4101: 'p': unreferenced local variable
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(776,9): warning C4101: 'desiredTheta': unreferenced local variable
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(788,8): warning C4101: 'a': unreferenced local variable
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(890,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\program.cpp(890,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  robot.cpp
+  shared_memory.cpp
+  timer.cpp
+  vision.cpp
+  vision_simulation.cpp
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\vision_simulation.cpp(268,18): warning C4101: 't_laser_o': unreferenced local variable
+C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\vision_simulation.cpp(268,9): warning C4101: 't_laser': unreferenced local variable
+  Generating Code...
+  program.vcxproj -> C:\Users\TheFa\Downloads\OneDrive_2021-05-12\Mech 472\Attacking\Debug\program.exe

@@ -1,0 +1,3 @@
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\vision_simulator_manual_opponent\Debug\program.exe
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\vision_simulator_manual_opponent\Debug\program.pdb
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\Debug\program.exe

@@ -1,0 +1,33 @@
+﻿  program.cpp
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(107,6): warning C4101: 'nlabels': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(258,10): warning C4101: 'ti': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(480,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(480,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(482,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(482,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(488,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(488,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(477,9): warning C4101: 'p': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(623,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(623,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(625,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(625,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(620,9): warning C4101: 'p': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(675,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(675,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(762,9): warning C4101: 'desiredTheta': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(774,8): warning C4101: 'a': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(775,54): warning C4101: 'ic_pink': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(775,36): warning C4101: 'mj_pink': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(775,18): warning C4101: 'mi_pink': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(775,72): warning C4101: 'jc_pink': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(846,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(846,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(854,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(854,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(873,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(873,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(858,14): warning C4101: 'B': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(858,8): warning C4101: 'R': unreferenced local variable
+C:\Users\cyril\Downloads\vision_lib_version_7.53\vision_simulator_version_7.53\Evading\program.cpp(858,11): warning C4101: 'G': unreferenced local variable
+LINK : fatal error LNK1104: cannot open file '.\Debug\program.exe'
