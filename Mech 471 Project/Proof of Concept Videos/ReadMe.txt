@@ -1,0 +1,1 @@
+In order to  show that the keyboard and potentiometer can work together at the same time, "Setting Inputs" video was made. Important parts to pause the video are at the beginning to see the angle and reference speed and at 0:19 where we can see that after pressing on the keyobard and twisting the potentiometer, the input values did indeed change 

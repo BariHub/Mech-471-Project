@@ -1,0 +1,1 @@
+We were suppose to use these functions in order to write to the DC motors, they do not use polling and should be more accurate, however, late into the programming stage they stopped working when the code was added to the main program and had to be substituted for the polling method.   

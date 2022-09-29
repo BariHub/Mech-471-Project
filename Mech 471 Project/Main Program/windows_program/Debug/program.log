@@ -1,0 +1,9 @@
+﻿  program.cpp
+C:\Users\TheFa\Downloads\Mech 471 Project\Mech 471 Project\Main Program\windows_program\program.cpp(26,12): warning C4101: 'k': unreferenced local variable
+C:\Users\TheFa\Downloads\Mech 471 Project\Mech 471 Project\Main Program\windows_program\program.cpp(26,6): warning C4101: 'i': unreferenced local variable
+C:\Users\TheFa\Downloads\Mech 471 Project\Mech 471 Project\Main Program\windows_program\program.cpp(21,6): warning C4101: 'angle': unreferenced local variable
+  serial_com.cpp
+C:\Users\TheFa\Downloads\Mech 471 Project\Mech 471 Project\Main Program\windows_program\serial_com.cpp(42,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  timer.cpp
+  Generating Code...
+  program.vcxproj -> C:\Users\TheFa\Downloads\Mech 471 Project\Mech 471 Project\Main Program\windows_program\Debug\program.exe

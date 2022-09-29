@@ -1,0 +1,3 @@
+﻿  PID Simulation.cpp
+C:\Users\Rachel Haighton\source\repos\PID Simulation\PID Simulation\PID Simulation.cpp(30,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PID Simulation.vcxproj -> C:\Users\Rachel Haighton\source\repos\PID Simulation\Debug\PID Simulation.exe
